@@ -32,7 +32,11 @@ $user = mysqli_fetch_assoc($result);
     <!-- Sidebar -->
     <div class="sidebar">
         <div class="logo">
+<<<<<<< HEAD
             <img src="img/logo (3).png" alt="">
+=======
+            <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
         </div>
         <ul>
             <li><a href="home.php">Home</a></li>

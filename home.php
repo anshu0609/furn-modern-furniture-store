@@ -50,7 +50,11 @@
 
                     <div class="p-items">
                         <div class="logo">
+<<<<<<< HEAD
                             <img src="img/logo (3).png" alt="">
+=======
+                            <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                         </div>
                         <ul>
                             <a href="home.php"><li>Home</li></a>
@@ -91,8 +95,15 @@
         </div>
         <div class="a4-body">
             <h1 id="txt2">BEST FURNITURE MANUFACTURER</h1>
+<<<<<<< HEAD
             <p id="txt3">Discover thoughtfully designed furniture that brings comfort, character, and lasting style to every room. Explore pieces made for modern living.</p>
             <p id="txt4">Explore furniture made to balance everyday comfort with timeless design, from inviting sofas to elegant pieces for every corner of your home.</p>
+=======
+            <p id="txt3">Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis<br> viverra ornare,
+                eros dolor interdum nulla.<br></p>
+            <p id="txt4">Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis<br> viverra ornare,
+                eros dolor interdum nulla.<br></p>
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
             <div class="btn">
             <a href="product.php"><button>DISCOVER MORE</button></a>
             </div>
@@ -100,7 +111,12 @@
     </div>
     <div class="a5">
         <h1 id="txt5">PRODUCTS YOU MAY LIKE</h1>
+<<<<<<< HEAD
         <p id="txt6">Find furniture that combines everyday comfort, practical craftsmanship, and timeless style to make every room feel complete.</p>
+=======
+        <p id="txt6">Suspendisse varius enim in eros elementum tristique. Duis cursus, mi<br> quis viverra ornare, eros
+            dolor interdum nulla.</p>
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
         <div class="a5-chair">
             <a href="product.php">
             <div class="card">
@@ -149,7 +165,12 @@
             </div>
             <div class="a6-body">
                 <h1 id="txt8">GET INSPIRED <br>WITH<br>INSTAGRAM</h1><br><br>
+<<<<<<< HEAD
                 <p id="txt9">See inspiring furniture ideas, warm interiors, and practical designs that help you create a space that feels truly yours.</p><br>
+=======
+                <p id="txt9">Suspendisse varius enim in eros<br> elementum tristique. Duis cursus, mi<br> quis viverra
+                    ornare, eros dolor interdum nulla.</p><br>
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 <div class="btn1">
                 <a href="product.php"><button>DISCOVER MORE</button></a>
                 </div>
@@ -164,12 +185,21 @@
     </div>
     <div class="a7">
         <h3 id="txt10">TOP PICK</h3><br>
+<<<<<<< HEAD
         <p id="txt11">Bring home carefully selected furniture with comfortable forms, durable finishes, and designs that complement modern spaces.</p>
+=======
+        <p id="txt11">Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra<br> ornare, eros
+            dolor interdum nulla</p>
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
         <div class="a7-sofa">
             <a href="product.php">
             <div class="card">
                 <div class="card-img">
+<<<<<<< HEAD
                     <img src="img/p5.webp" alt="" srcset="">
+=======
+                    <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" alt="" srcset="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 </div>
                 <div class="card-body">
                     <ul>
@@ -180,7 +210,11 @@
             </div>
             <div class="card">
                 <div class="card-img">
+<<<<<<< HEAD
                     <img src="img/p3.webp" alt="" srcset="">
+=======
+                    <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" alt="" srcset="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 </div>
                 <div class="card-body">
                     <ul>
@@ -191,7 +225,11 @@
             </div>
             <div class="card">
                 <div class="card-img">
+<<<<<<< HEAD
                     <img src="img/p4.webp" alt="" srcset="">
+=======
+                    <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular7.png" alt="" srcset="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 </div>
                 <div class="card-body">
                     <ul>
@@ -236,7 +274,11 @@
 
         <div class="lower-footer">
             <div class="lower-footer-items">
+<<<<<<< HEAD
                 <img src="img/logo (3).png" alt="">
+=======
+                <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo2_footer.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 <p>Your trusted partner for quality, convenience, and exceptional service."</p>
 
                 <div class="social-media">

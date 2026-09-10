@@ -112,7 +112,11 @@ $total_price = $total_row['total'];
 
                 <div class="p-items">
                     <div class="logo">
+<<<<<<< HEAD
                         <img src="img/logo (3).png" alt="">
+=======
+                        <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                     </div>
                     <ul>
                             <a href="home.php"><li>Home</li></a>
@@ -154,7 +158,10 @@ $total_price = $total_row['total'];
                     <div class="cart-details">
                         <h3><?php echo $row['model']; ?></h3>
                         <p>Price: ₹<?php echo $row['price']; ?></p>
+<<<<<<< HEAD
                         <p>Total: ₹<?php echo number_format($row['price'] * $row['quantity'], 2); ?></p>
+=======
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
 
                         <div class="quantity-controls">
                             <form method="POST">
@@ -217,7 +224,11 @@ $total_price = $total_row['total'];
 
         <div class="lower-footer">
             <div class="lower-footer-items">
+<<<<<<< HEAD
                 <img src="img/logo (3).png" alt="">
+=======
+                <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo2_footer.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 <p>Your trusted partner for quality, convenience, and exceptional service."</p>
 
                 <div class="social-media">

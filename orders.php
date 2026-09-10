@@ -36,7 +36,11 @@ $orderResult = mysqli_query($conn, $orderQuery);
     <!-- Sidebar -->
     <div class="sidebar">
         <div class="logo">
+<<<<<<< HEAD
             <img src="img/logo (3).png" alt="">
+=======
+            <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
         </div>
         <ul>
             <li><a href="admin.php">Sales Report</a></li>
@@ -84,7 +88,11 @@ $orderResult = mysqli_query($conn, $orderQuery);
                             <td><?php echo $row['name']; ?></td>
                             <td><?php echo $row['email']; ?></td>
                             <td><?php echo $row['address']; ?></td>
+<<<<<<< HEAD
                             <td>&#8377;<?php echo number_format($row['total_price'] / 100, 2); ?></td>
+=======
+                            <td>&#8377;<?php echo number_format($row['total_price'], 2); ?></td>
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                             <td><?php echo $row['payment_method']; ?></td>
                             <td><?php echo $row['order_date']; ?></td>
                         </tr>

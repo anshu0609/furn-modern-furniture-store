@@ -35,7 +35,11 @@
 
                 <div class="p-items">
                     <div class="logo">
+<<<<<<< HEAD
                         <img src="img/logo (3).png" alt="">
+=======
+                        <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                     </div>
                     <ul>
                             <a href="home.php"><li>Home</li></a>
@@ -67,7 +71,11 @@
     <product>
         <div class="product-heading">
             <h1>OUR STORY</h1>
+<<<<<<< HEAD
             <H4>We; at Furn, have been at the forefront of the industry creating beautiful spaces for you within your homes and offices since 1985.
+=======
+            <H4>We; at Durian, have been at the forefront of the industry creating beautiful spaces for you within your homes and offices since 1985.
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 With a successful start by importing our furniture we came up with our own factories that manufactures Sofas, Beds and Chairs. We are humbled to have touched the lives of millions of people with our range of world class home and office furniture, innovative laminates, sturdy designer doors, exquisite veneers and top-grade plywood.</H4>
         </div>
 
@@ -75,7 +83,11 @@
 
     <about-image>
         <div class="container">
+<<<<<<< HEAD
             <img src="img/p8.webp" alt="">
+=======
+            <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/about1.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
         </div>
     </about-image>
 
@@ -91,7 +103,11 @@
 
     <about-image>
         <div class="container">
+<<<<<<< HEAD
             <img src="img/p7.webp" alt="">
+=======
+            <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/about2.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
         </div>
     </about-image>
 
@@ -114,17 +130,28 @@
         <div class="container">
             <div class="social-logo">
                 
+<<<<<<< HEAD
                         <img src="img/p4.webp" alt="">
+=======
+                        <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/insta.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 
                     <h1>Get Inspired with Instagram</h1>
                     <h4>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</h4>
                 </ul>
             </div>
             <div class="img-social">
+<<<<<<< HEAD
                 <img src="img/p5.webp" alt="">
             </div>
             <div class="img-social">
                 <img src="img/visit_bg.png" alt="">
+=======
+                <img src="https://preview.colorlib.com/theme/furn/assets/img//gallery/instra1.png" alt="">
+            </div>
+            <div class="img-social">
+                <img src="https://preview.colorlib.com/theme/furn/assets/img//gallery/instra2.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
             </div>
         </div>
     </connect-social>
@@ -161,7 +188,11 @@
 
         <div class="lower-footer">
             <div class="lower-footer-items">
+<<<<<<< HEAD
                 <img src="img/logo (3).png" alt="">
+=======
+                <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo2_footer.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 <p>Your trusted partner for quality, convenience, and exceptional service."</p>
 
                 <div class="social-media">

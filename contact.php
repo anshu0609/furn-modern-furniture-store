@@ -60,7 +60,11 @@ $conn=mysqli_connect('127.0.0.1','root','','furn') or die("Database Connection E
 
             <div class="p-items">
                 <div class="logo">
+<<<<<<< HEAD
                     <img src="img/logo (3).png" alt="">
+=======
+                    <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                 </div>
                 <ul>
                             <a href="home.php"><li>Home</li></a>
@@ -143,7 +147,11 @@ $conn=mysqli_connect('127.0.0.1','root','','furn') or die("Database Connection E
 
     <div class="lower-footer">
         <div class="lower-footer-items">
+<<<<<<< HEAD
             <img src="img/logo (3).png" alt="">
+=======
+            <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo2_footer.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
             <p>Your trusted partner for quality, convenience, and exceptional service."</p>
 
             <div class="social-media">

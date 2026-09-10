@@ -21,6 +21,10 @@ if (isset($_POST['add_to_cart'])) {
     $img = $_POST['img'];
     $model = $_POST['model'];
     $price = $_POST['price'];
+<<<<<<< HEAD
+=======
+    
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
 
     // Check if the product is already in the cart
     $check_cart = "SELECT * FROM cart WHERE email = '$email' AND model = '$model'";
@@ -28,6 +32,7 @@ if (isset($_POST['add_to_cart'])) {
 
     if (mysqli_num_rows($cart_result) > 0) {
         // If product exists, increase quantity
+<<<<<<< HEAD
         $update_cart = "UPDATE cart 
                         SET quantity = quantity + 1 
                         WHERE email = '$email' AND model = '$model'";
@@ -35,15 +40,25 @@ if (isset($_POST['add_to_cart'])) {
         mysqli_query($conn, $update_cart);
 
         $message = "$model quantity increased in your cart!";
+=======
+        $update_cart = "UPDATE cart SET quantity = quantity + 1 WHERE email = '$email' AND model = '$model'";
+        mysqli_query($conn, $update_cart);
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
     } else {
         // Otherwise, insert as a new item
         $insert_cart = "INSERT INTO cart (email, img, model, price, quantity) 
                         VALUES ('$email', '$img', '$model', '$price', 1)";
+<<<<<<< HEAD
 
         mysqli_query($conn, $insert_cart);
 
         $message = "$model added to your cart!";
     }
+=======
+        mysqli_query($conn, $insert_cart);
+    }
+
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
 }
 
 // Fetch products
@@ -90,11 +105,14 @@ $result = $conn->query($sql);
 }
 </script>
 </script>
+<<<<<<< HEAD
 <?php if (isset($message)) { ?>
     <script>
         alert("<?php echo addslashes($message); ?>");
     </script>
 <?php } ?>
+=======
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
     </head>
 
     <body>
@@ -109,7 +127,11 @@ $result = $conn->query($sql);
 
                 <div class="p-items">
                         <div class="logo">
+<<<<<<< HEAD
                             <img src="img/logo (3).png" alt="">
+=======
+                            <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                         </div>
                         <ul>
                             <li><a href="home.php">Home</a></li>
@@ -209,7 +231,11 @@ $result = $conn->query($sql);
 
             <div class="lower-footer">
                 <div class="lower-footer-items">
+<<<<<<< HEAD
                     <img src="img/logo (3).png" alt="">
+=======
+                    <img src="https://preview.colorlib.com/theme/furn/assets/img/logo/logo2_footer.png" alt="">
+>>>>>>> fe169aa70a9dd297caf2700aa15a51bd31c5ed75
                     <p>Your trusted partner for quality, convenience, and exceptional service."</p>
 
                     <div class="social-media">
